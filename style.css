@@ -1,13 +1,17 @@
-h1{
-    color:rgb(9, 115, 180);
+h1 {
+    color: rgb(9, 115, 180);
+    text-align: center;
 }
-img{
-    display:block;
-    margin:auto;
+
+img {
+    display: block;
+    margin: auto;
 }
-h4{
-    color:rgb(0, 156, 161);
+
+h4 {
+    color: rgb(0, 156, 161);
 }
-body{
+
+body {
     background-color: rgb(255, 255, 255);
 }
